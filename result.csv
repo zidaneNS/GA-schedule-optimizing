@@ -1,0 +1,39 @@
+name,cls,lecturer,room,time
+Algebraic Structure,A1,SITI ZAHIDAH,S.Si., M.Si.,301B,Wed-6
+Algebraic Structure,A1,SITI ZAHIDAH,S.Si., M.Si.,301B,Tue-5
+Algebraic Structure,A1,Dr. INNA KUSWANDARI,M.Si.,301B,Tue-4
+Algebraic Structure,A2,SITI ZAHIDAH,S.Si., M.Si.,GC-304,Thu-9
+Algebraic Structure,A2,Dr. INNA KUSWANDARI,M.Si.,GC-304,Thu-8
+Algebraic Structure,A2,Dr. YAYUK WAHYUNI,Dra., M.Si,GC-304,Thu-7
+Simulation,A1,Drs. EDI WINARKO,M.Cs.,202A,Thu-8
+Simulation,A1,Dr. AHMADIN,S.Si., M.Si.,202A,Thu-7
+Simulation,A1,Dr. AHMADIN,S.Si., M.Si.,202A,Thu-8
+Simulation,A2,Drs. EDI WINARKO,M.Cs.,GC-301,Wed-3
+Simulation,A2,Dr. AHMADIN,S.Si., M.Si.,GC-301,Wed-2
+Simulation,A2,Dr. WINDARTO,S.Si., M.Si,GC-301,Wed-1
+Simulation,A3,Drs. EDI WINARKO,M.Cs.,324,Thu-4
+Simulation,A3,Dr. WINDARTO,S.Si., M.Si,324,Thu-3
+Simulation,A3,Dr. WINDARTO,S.Si., M.Si,324,Thu-2
+Algebra (Practicum),A1,Bustomi,S.Si., M.Si.,LK6,Thu-7
+Algebra (Practicum),A2,Bustomi,S.Si., M.Si.,324,Thu-2
+Algebra (Practicum),A3,Dr. Siti Humaira,S.Si., M.Si.,GC-301,Mon-7
+Real Analysis 1,A1,Dr. ERIDANI,M.Si,GC-301,Wed-5
+Real Analysis 1,A1,MUCHAMMAD YUSUF SYAIFUDDIN,S.Si., M.Si.,GC-301,Wed-4
+Real Analysis 1,A2,MUCHAMMAD YUSUF SYAIFUDDIN,S.Si., M.Si.,GC-304,Tue-4
+Real Analysis 1,A2,Dr. ERIDANI,M.Si,GC-304,Tue-3
+Mathematic Statistic,A1,Dr. MISWANTO,Drs., M.Si.,LK8,Wed-4
+Mathematic Statistic,A1,Dr. WINDARTO,S.Si., M.Si,LK8,Wed-3
+Mathematic Statistic,A1,Prof. Dr. FATMAWATI,MSi,LK8,Wed-2
+Mathematic Statistic,A1,Dr. MISWANTO,Drs., M.Si.,LK8,Wed-1
+Mathematic Statistic,A2,Dr. WINDARTO,S.Si., M.Si,GC-304,Tue-2
+Mathematic Statistic,A2,Prof. Dr. FATMAWATI,MSi,GC-304,Tue-1
+Mathematic Statistic,A2,Dr. MISWANTO,Drs., M.Si.,GC-304,Tue-2
+Mathematic Statistic,A2,Dr. WINDARTO,S.Si., M.Si,GC-304,Tue-1
+Introducing Complex Variable,A1,MUCHAMMAD YUSUF SYAIFUDDIN,S.Si., M.Si.,301B,Thu-1
+Introducing Complex Variable,A1,Dr. ERIDANI,M.Si,301B,Thu-2
+Introducing Complex Variable,A2,Dr. ERIDANI,M.Si,GC-301,Thu-2
+Introducing Complex Variable,A2,Dr. ERIDANI,M.Si,GC-301,Thu-1
+System Modelling 1,A1,Dr. WINDARTO,S.Si., M.Si,323A,Wed-4
+System Modelling 1,A1,Dr. WINDARTO,S.Si., M.Si,323A,Wed-3
+System Modelling 1,A2,Dr. WINDARTO,S.Si., M.Si,LK8,Thu-9
+System Modelling 1,A2,Prof. Dr. FATMAWATI,MSi,LK8,Thu-8
